@@ -1,5 +1,4 @@
-﻿
-Console.Write("Buenos días, Como te llamas?");
+Console.Write("hello, Como te llamas?");
 
 var name = Console.ReadLine();
 
