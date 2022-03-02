@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>excelutable</OutputType>
+    <OutputType>excecutable</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -9,4 +9,4 @@
 
 </Project>
 
-Buenos dias
+Buenos dias como estan por aca?
